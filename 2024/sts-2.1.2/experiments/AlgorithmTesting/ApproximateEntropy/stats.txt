@@ -1,0 +1,84 @@
+			APPROXIMATE ENTROPY TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) m (block length)    = 10
+		(b) n (sequence length) = 1000000
+		(c) Chi^2               = 1074448.228389
+		(d) Phi(m)	       = -2.052543
+		(e) Phi(m+1)	       = -2.208466
+		(f) ApEn                = 0.155923
+		(g) Log(2)              = 0.693147
+		--------------------------------------------
+FAILURE		p_value = 0.000000
+
+			APPROXIMATE ENTROPY TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) m (block length)    = 10
+		(b) n (sequence length) = 1000000
+		(c) Chi^2               = 1074037.528988
+		(d) Phi(m)	       = -2.050263
+		(e) Phi(m+1)	       = -2.206392
+		(f) ApEn                = 0.156128
+		(g) Log(2)              = 0.693147
+		--------------------------------------------
+FAILURE		p_value = 0.000000
+
+			APPROXIMATE ENTROPY TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) m (block length)    = 10
+		(b) n (sequence length) = 1000000
+		(c) Chi^2               = 1074235.685312
+		(d) Phi(m)	       = -2.051169
+		(e) Phi(m+1)	       = -2.207198
+		(f) ApEn                = 0.156029
+		(g) Log(2)              = 0.693147
+		--------------------------------------------
+FAILURE		p_value = 0.000000
+
+			APPROXIMATE ENTROPY TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) m (block length)    = 10
+		(b) n (sequence length) = 1000000
+		(c) Chi^2               = 1074647.869625
+		(d) Phi(m)	       = -2.046308
+		(e) Phi(m+1)	       = -2.202131
+		(f) ApEn                = 0.155823
+		(g) Log(2)              = 0.693147
+		--------------------------------------------
+FAILURE		p_value = 0.000000
+
+			APPROXIMATE ENTROPY TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) m (block length)    = 10
+		(b) n (sequence length) = 1000000
+		(c) Chi^2               = 1074589.856080
+		(d) Phi(m)	       = -2.055226
+		(e) Phi(m+1)	       = -2.211078
+		(f) ApEn                = 0.155852
+		(g) Log(2)              = 0.693147
+		--------------------------------------------
+FAILURE		p_value = 0.000000
+
+			APPROXIMATE ENTROPY TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) m (block length)    = 10
+		(b) n (sequence length) = 1000000
+		(c) Chi^2               = 1074366.530121
+		(d) Phi(m)	       = -2.047102
+		(e) Phi(m+1)	       = -2.203066
+		(f) ApEn                = 0.155964
+		(g) Log(2)              = 0.693147
+		--------------------------------------------
+FAILURE		p_value = 0.000000
+

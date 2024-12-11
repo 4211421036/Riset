@@ -1,0 +1,672 @@
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 811
+		-------------------------------------------
+SUCCESS		p_value = 0.804883
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 544
+		-------------------------------------------
+SUCCESS		p_value = 0.980302
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1620
+		-------------------------------------------
+SUCCESS		p_value = 0.210462
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1150
+		-------------------------------------------
+SUCCESS		p_value = 0.499167
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1082
+		-------------------------------------------
+SUCCESS		p_value = 0.556164
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1304
+		-------------------------------------------
+SUCCESS		p_value = 0.384284
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 889
+		-------------------------------------------
+SUCCESS		p_value = 0.732717
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 677
+		-------------------------------------------
+SUCCESS		p_value = 0.913721
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1694
+		-------------------------------------------
+SUCCESS		p_value = 0.180530
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1370
+		-------------------------------------------
+SUCCESS		p_value = 0.341295
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 861
+		-------------------------------------------
+SUCCESS		p_value = 0.758920
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1081
+		-------------------------------------------
+SUCCESS		p_value = 0.557029
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1570
+		-------------------------------------------
+SUCCESS		p_value = 0.232825
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1580
+		-------------------------------------------
+SUCCESS		p_value = 0.228209
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1372
+		-------------------------------------------
+SUCCESS		p_value = 0.340050
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 2071
+		-------------------------------------------
+SUCCESS		p_value = 0.076718
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1575
+		-------------------------------------------
+SUCCESS		p_value = 0.230508
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1461
+		-------------------------------------------
+SUCCESS		p_value = 0.288007
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1126
+		-------------------------------------------
+SUCCESS		p_value = 0.518871
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1951
+		-------------------------------------------
+SUCCESS		p_value = 0.102114
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 886
+		-------------------------------------------
+SUCCESS		p_value = 0.735533
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 818
+		-------------------------------------------
+SUCCESS		p_value = 0.798545
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 560
+		-------------------------------------------
+SUCCESS		p_value = 0.975089
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 508
+		-------------------------------------------
+SUCCESS		p_value = 0.989316
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1671
+		-------------------------------------------
+SUCCESS		p_value = 0.189442
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1182
+		-------------------------------------------
+SUCCESS		p_value = 0.473629
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 739
+		-------------------------------------------
+SUCCESS		p_value = 0.867007
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 859
+		-------------------------------------------
+SUCCESS		p_value = 0.760784
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 898
+		-------------------------------------------
+SUCCESS		p_value = 0.724265
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 752
+		-------------------------------------------
+SUCCESS		p_value = 0.856300
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1646
+		-------------------------------------------
+SUCCESS		p_value = 0.199526
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1392
+		-------------------------------------------
+SUCCESS		p_value = 0.327785
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1335
+		-------------------------------------------
+SUCCESS		p_value = 0.363629
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1505
+		-------------------------------------------
+SUCCESS		p_value = 0.264635
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 751
+		-------------------------------------------
+SUCCESS		p_value = 0.857133
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 740
+		-------------------------------------------
+SUCCESS		p_value = 0.866193
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 3276
+		-------------------------------------------
+FAILURE		p_value = 0.002106
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 3225
+		-------------------------------------------
+FAILURE		p_value = 0.002519
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1300
+		-------------------------------------------
+SUCCESS		p_value = 0.387010
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1116
+		-------------------------------------------
+SUCCESS		p_value = 0.527216
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 952
+		-------------------------------------------
+SUCCESS		p_value = 0.673618
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 928
+		-------------------------------------------
+SUCCESS		p_value = 0.696084
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 840
+		-------------------------------------------
+SUCCESS		p_value = 0.778399
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1307
+		-------------------------------------------
+SUCCESS		p_value = 0.382249
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1139
+		-------------------------------------------
+SUCCESS		p_value = 0.508140
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1835
+		-------------------------------------------
+SUCCESS		p_value = 0.133011
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1057
+		-------------------------------------------
+SUCCESS		p_value = 0.577985
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 877
+		-------------------------------------------
+SUCCESS		p_value = 0.743970
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 904
+		-------------------------------------------
+SUCCESS		p_value = 0.718627
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 916
+		-------------------------------------------
+SUCCESS		p_value = 0.707351
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 648
+		-------------------------------------------
+SUCCESS		p_value = 0.932558
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 932
+		-------------------------------------------
+SUCCESS		p_value = 0.692331
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1028
+		-------------------------------------------
+SUCCESS		p_value = 0.603815
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1524
+		-------------------------------------------
+SUCCESS		p_value = 0.255008
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1114
+		-------------------------------------------
+SUCCESS		p_value = 0.528895
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 754
+		-------------------------------------------
+SUCCESS		p_value = 0.854630
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1142
+		-------------------------------------------
+SUCCESS		p_value = 0.505683
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1089
+		-------------------------------------------
+SUCCESS		p_value = 0.550134
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1449
+		-------------------------------------------
+SUCCESS		p_value = 0.294648
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1647
+		-------------------------------------------
+SUCCESS		p_value = 0.199115
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1119
+		-------------------------------------------
+SUCCESS		p_value = 0.524704
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1431
+		-------------------------------------------
+SUCCESS		p_value = 0.304825
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1140
+		-------------------------------------------
+SUCCESS		p_value = 0.507320
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1143
+		-------------------------------------------
+SUCCESS		p_value = 0.504866
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1388
+		-------------------------------------------
+SUCCESS		p_value = 0.330212
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1233
+		-------------------------------------------
+SUCCESS		p_value = 0.434719
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1573
+		-------------------------------------------
+SUCCESS		p_value = 0.231433
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1523
+		-------------------------------------------
+SUCCESS		p_value = 0.255508
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 560
+		-------------------------------------------
+SUCCESS		p_value = 0.975089
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 894
+		-------------------------------------------
+SUCCESS		p_value = 0.728023
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1525
+		-------------------------------------------
+SUCCESS		p_value = 0.254509
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1579
+		-------------------------------------------
+SUCCESS		p_value = 0.228668
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 882
+		-------------------------------------------
+SUCCESS		p_value = 0.739284
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 711
+		-------------------------------------------
+SUCCESS		p_value = 0.889074
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 987
+		-------------------------------------------
+SUCCESS		p_value = 0.641154
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1471
+		-------------------------------------------
+SUCCESS		p_value = 0.282562
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1475
+		-------------------------------------------
+SUCCESS		p_value = 0.280406
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1728
+		-------------------------------------------
+SUCCESS		p_value = 0.167976
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1798
+		-------------------------------------------
+SUCCESS		p_value = 0.144354
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1030
+		-------------------------------------------
+SUCCESS		p_value = 0.602017
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1244
+		-------------------------------------------
+SUCCESS		p_value = 0.426619
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1283
+		-------------------------------------------
+SUCCESS		p_value = 0.398747
+
+		      CUMULATIVE SUMS (FORWARD) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1602
+		-------------------------------------------
+SUCCESS		p_value = 0.218308
+
+		      CUMULATIVE SUMS (REVERSE) TEST
+		-------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		-------------------------------------------
+		(a) The maximum partial sum = 1791
+		-------------------------------------------
+SUCCESS		p_value = 0.146586
+
