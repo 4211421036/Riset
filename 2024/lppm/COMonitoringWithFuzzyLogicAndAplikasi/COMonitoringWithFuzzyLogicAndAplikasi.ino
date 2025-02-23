@@ -1,6 +1,3 @@
-#include <MQ7.h>
-#include <MQ3.h>
-
 /*
 Riset ini didanai oleh LPPM
 */
