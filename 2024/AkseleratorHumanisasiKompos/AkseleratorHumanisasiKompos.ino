@@ -1,15 +1,3 @@
-/*
-Alat yang perlu dipesan
-1. Wemos D1 Mini
-2. Relay
-3. Soil Moisture Sensor
-4. DHT 22
-5. Heater
-6. Fun
-
-Bismillah PKM Amli.
-*/
-
 #include <Wire.h>
 #include <WiFi.h>
 #include <WiFiClientSecure.h>
