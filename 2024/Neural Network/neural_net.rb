@@ -12,7 +12,6 @@ class NeuralNet
   end
 
   def run input
-    # Input to this method represents the output of the first layer (i.e., the input layer)
     @outputs = [input]
     set_initial_weight_values if @weights.nil?
 
