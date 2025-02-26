@@ -7,7 +7,6 @@ const int echoPin = 13;
 long duration;
 float distanceMm;
 
-// Replace with your network credentials
 #define WIFI_SSID "Galaxy"
 #define WIFI_PASSWORD "fkhw8785"
 
@@ -16,12 +15,10 @@ WebServer server(80);
 String readDistance() {
   digitalWrite(trigPin, LOW);
   delayMicroseconds(2);
-  // Sets the trigPin on HIGH state for 10 micro seconds
   digitalWrite(trigPin, HIGH);
   delayMicroseconds(10);
   digitalWrite(trigPin, LOW);
 
-  // Reads the echoPin, returns the sound wave travel time in microseconds
   duration = pulseIn(echoPin, HIGH);
 
   // Calculate the distance
